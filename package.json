@@ -1,8 +1,8 @@
 {
-  "name": "@uiw/react-native-alipay",
+  "name": "@linbing520/react-native-alipay",
   "title": "React Native Alipay",
   "version": "4.0.3",
-  "description": "基于 React Native 的支付宝插件，支持Android/iOS。",
+  "description": "基于 React Native 的支付宝插件，支持Android/iOS。适配0.59.0",
   "main": "index.js",
   "typings": "index.d.ts",
   "files": [
@@ -19,8 +19,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uiwjs/react-native-alipay.git",
-    "baseUrl": "https://github.com/uiwjs/react-native-alipay"
+    "url": "git+https://github.com/linbing520/react-native-alipay.git",
+    "baseUrl": "https://github.com/linbing520/react-native-alipay"
   },
   "keywords": [
     "react-native",
